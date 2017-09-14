@@ -54,3 +54,20 @@ a {
 .photo{
     margin:5px;
 }
+.textPage{
+    width: 550px;
+    margin:auto;
+    padding-top: 122px;
+    /*padding-left:5%;*/
+    /*padding-right:5%;*/
+}
+.titleBox{
+
+}
+.textBox{
+    padding-left:3%;
+    text-indent: 25px;
+}
+.snazzySlogan{
+    justify-content: center;
+}
